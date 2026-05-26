@@ -1,0 +1,17 @@
+[
+  {
+    "id": "t3_test123",
+    "title": "Test Post — RepoMod Connection Test",
+    "body": "This is a test archive entry created by RepoMod setup verification.",
+    "author": "RepoMod-Bot",
+    "subreddit": "test",
+    "createdAt": "2026-05-26T16:42:08.410Z",
+    "archivedAt": "2026-05-26T16:42:08.411Z",
+    "permalink": "https://reddit.com/r/test/comments/test123",
+    "url": "",
+    "mediaUrls": [],
+    "removalType": "mod_removed",
+    "flair": "",
+    "score": 1
+  }
+]
