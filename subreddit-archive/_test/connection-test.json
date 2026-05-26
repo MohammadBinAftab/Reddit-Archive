@@ -13,5 +13,20 @@
     "removalType": "mod_removed",
     "flair": "",
     "score": 1
+  },
+  {
+    "id": "t3_test456",
+    "title": "Second Test — Append Verification",
+    "body": "This entry was appended to verify the update flow works.",
+    "author": "RepoMod-Bot",
+    "subreddit": "test",
+    "createdAt": "2026-05-26T16:42:10.725Z",
+    "archivedAt": "2026-05-26T16:42:10.725Z",
+    "permalink": "https://reddit.com/r/test/comments/test456",
+    "url": "",
+    "mediaUrls": [],
+    "removalType": "mod_removed",
+    "flair": "Test",
+    "score": 42
   }
 ]
