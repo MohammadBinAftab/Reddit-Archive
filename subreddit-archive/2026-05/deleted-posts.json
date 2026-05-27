@@ -13,5 +13,20 @@
     "removalType": "user_deleted",
     "flair": "",
     "score": 0
+  },
+  {
+    "id": "t3_1toymyz",
+    "title": "[User Deleted — Content Redacted]",
+    "body": "",
+    "author": "[deleted]",
+    "subreddit": "[redacted]",
+    "createdAt": "",
+    "archivedAt": "2026-05-27T07:47:22.298Z",
+    "permalink": "",
+    "url": "",
+    "mediaUrls": [],
+    "removalType": "user_deleted",
+    "flair": "",
+    "score": 0
   }
 ]
