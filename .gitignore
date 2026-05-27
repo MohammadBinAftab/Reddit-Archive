@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+dist/
+.devvit/
+web-package/
+
+# Environment Variables & Secrets
+.env
+.env.*
+*.local
+
+# OS Files
+.DS_Store
+Thumbs.db

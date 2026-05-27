@@ -1,0 +1,26 @@
+{
+  "name": "repomodtest",
+  "version": "0.0.0",
+  "description": "RepoMod — Auto-archive deleted posts and removed media from a subreddit into a connected GitHub repository",
+  "private": true,
+  "type": "module",
+  "main": "src/main.ts",
+  "scripts": {
+    "dev": "devvit playtest",
+    "build": "devvit build",
+    "upload": "devvit upload",
+    "lint": "tsc --noEmit",
+    "test:github": "tsx src/test-github.ts"
+  },
+  "dependencies": {
+    "@devvit/public-api": "0.12.24"
+  },
+  "devDependencies": {
+    "tsx": "^4.21.0",
+    "typescript": "^5.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "license": "BSD-3-Clause"
+}
