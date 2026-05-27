@@ -1,7 +1,7 @@
 {
   "name": "repomodtest",
   "version": "0.0.0",
-  "description": "RepoMod — Auto-archive deleted posts and removed media from a subreddit into a connected GitHub repository",
+  "description": "Automatically archive removed posts and comments from a subreddit to a connected GitHub repository.",
   "private": true,
   "type": "module",
   "main": "src/main.ts",
