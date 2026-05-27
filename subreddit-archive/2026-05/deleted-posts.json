@@ -43,5 +43,20 @@
     "removalType": "user_deleted",
     "flair": "",
     "score": 0
+  },
+  {
+    "id": "t3_1tozhqm",
+    "title": "[User Deleted — Content Redacted]",
+    "body": "",
+    "author": "[deleted]",
+    "subreddit": "[redacted]",
+    "createdAt": "",
+    "archivedAt": "2026-05-27T08:35:55.134Z",
+    "permalink": "",
+    "url": "",
+    "mediaUrls": [],
+    "removalType": "user_deleted",
+    "flair": "",
+    "score": 0
   }
 ]
